@@ -46,10 +46,10 @@ export default function About() {
                         <div className="text-lg mt-12 xl:mt-3">
                             <Fade direction="up" delay={600} cascade damping={1e-1} triggerOnce={true}>
                                 <p className="mt-2 leading-relaxed text-base text-gray-700 dark:text-white">
-                                    Passionate about programming, I’ve immersed myself in the art and science of building impactful digital experiences.
+                                    Passionate about programming, I&apos;ve immersed myself in the art and science of building impactful digital experiences.
                                 </p>
                                 <p className="mt-2 leading-relaxed text-base text-gray-700 dark:text-white"> 
-                                    I’m fluent in foundational technologies like {" "}
+                                    I&apos;m fluent in foundational technologies like {" "}
                                     <span className='italic bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600'>
                                         JavaScript, React.js, and React Native.
                                     </span>

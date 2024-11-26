@@ -4,11 +4,11 @@ import { projectsData } from "@/lib/data";
 import SectionHeading from "./section-heading";
 import Project from "./project-card";
 import { useSectionInView } from "@/lib/useinView";
-import { motion, AnimatePresence } from "framer-motion"
+import { motion,} from "framer-motion"
 
 
 export default function Projects() {
-    const {ref } = useSectionInView("#projects", 0.1);
+    const { } = useSectionInView("#projects", 0.1);
     return (
         <section id="projects" className="scroll-mt-28 mb-28">
             <SectionHeading>
