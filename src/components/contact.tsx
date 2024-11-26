@@ -57,7 +57,7 @@ export default function Contact() {
                         Message Sent Successfully!
                       </p>
                       <p className="mt-1 text-sm text-gray-500">
-                        Thank you for reaching out. I'll get back to you soon.
+                        Thank you for reaching out. I&apos;ll get back to you soon.
                       </p>
                     </div>
                   </div>
@@ -97,5 +97,4 @@ export default function Contact() {
         </form>
       </Fade>
     </motion.section>
-  )
-}
+  )}

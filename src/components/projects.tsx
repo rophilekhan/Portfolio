@@ -30,7 +30,7 @@ export default function Projects() {
             transition={{ duration: 0.5, delay: 0.3 }}
             className="text-xl mb-8"
           >
-            Here are a few Projects I've Worked on recently.
+            Here are a few projects I&apos;ve worked on recently.
             
           </motion.p>
             </SectionHeading>
